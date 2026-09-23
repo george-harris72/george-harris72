@@ -2,7 +2,7 @@
 
 Welcome to my portfolio showing my skills in Business Analytics!
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on project to build an executive financial performance dashboard, using UK public sector spend data, to provide a local government officer with an ongoing monthly view of where spend is going and how the financials are moving.
 - 🌱 I’m currently upskilling in SQL, Python, PowerBI and GitHub (CI/CD Version Control)
 
 _"To infinity and beyond"_ 🚀
