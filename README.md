@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+Welcome to my portfolio showing my skills in Business Analytics!
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently upskilling in SQL, Python, PowerBI and GitHub (CI/CD Version Control)
+
+_"To infinity and beyond"_ 🚀
+
 <!--
 **george-harris72/george-harris72** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
